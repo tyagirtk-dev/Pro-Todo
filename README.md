@@ -135,9 +135,9 @@ Enable:
 ## 2️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git clone https://github.com/tyagirtk-dev/Pro-Todo.git
 
-cd YOUR_REPO
+cd Pro-Todo
 ```
 
 ---
@@ -193,9 +193,9 @@ sudo apt install python3 python3-pip python3-venv git -y
 ## Clone Project
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git clone https://github.com/tyagirtk-dev/Pro-Todo.git
 
-cd YOUR_REPO
+cd Pro-Todo
 ```
 
 ---
@@ -252,9 +252,9 @@ pkg install python git -y
 ## Clone Project
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git clone https://github.com/tyagirtk-dev/Pro-Todo.git
 
-cd YOUR_REPO
+cd Pro-Todo
 ```
 
 ---
@@ -410,7 +410,7 @@ MIT License
 
 # ❤️ Author
 
-### Thakur Ritik Singh
+###  Ritik Singh
 
 Made with ❤️ using Flask & Python
 
